@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0331_000-X.yaml, hash: 'sha256:15b6ec1c5228e1473c4a25648962ee7995a1dc7ad5b124dad925a9da674214ca'}
+  - {seq: 0, filename: KR6q0331_000-X.yaml, hash: 'sha256:b28631416ec9792866dae225590b8f8802d2a2b20126586b13858671e7a67a86'}
   - {seq: 1, filename: KR6q0331_001-X.yaml, hash: 'sha256:efe8f618c5c173418b54665c0d3bcacb152d23e6428f5deadd8a4add1c858733'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0331_000-X.markers.yaml, hash: 'sha256:761bf9fcfcdf3034867bcff4131a3aec16c2bc30592d5ddaa31edcf354de3048'}
+  - {seq: 0, role: markers, filename: assets/KR6q0331_000-X.markers.yaml, hash: 'sha256:00f3686becf8019b5fdaac1194d15b0936d5f29a0e69d6bda99bb2e992677965'}
   - {seq: 1, role: markers, filename: assets/KR6q0331_001-X.markers.yaml, hash: 'sha256:1c5c1ea69c889af07ca837b16c972ab8ee58777f70d113ce343155bd5e091f57'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0331_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1398-A 海印禪師三會語序
@@ -685,4 +685,4 @@ table_of_contents:
   label: No. 1398-E
   type: mulu
   level: 1
-hash: sha256:53b1e30238a41f6c917203143d75ad186b28eb357ede22307ed3c374b02a9882
+hash: sha256:e51fd6233fd408541dbf40dc26e02cfb211060017bdc08c5afb64c588be1f33e
